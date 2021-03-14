@@ -1,2 +1,3 @@
 # codewars
-codewars codes
+
+My answers for [codewars](codewars.com) problems
